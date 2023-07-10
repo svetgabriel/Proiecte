@@ -1,0 +1,33 @@
+Factura: 0
+Data emiterii: Sun Jan 15 14:28:48 EET 2023
+Client: Terinte Alexandru Cnp: 112
+
+--------------------------------------------------------------------------------------
+Masina: Dacia Logan
+Valabil de la: Sun Jan 15 14:28:48 EET 2023 pana la: Sat Jul 15 14:28:48 EEST 2023
+Valoare asigurata: 12350.0
+--------------------------------------------------------------------------------------
+Total                       807.5
+
+Factura: 1
+Data emiterii: Sun Jan 15 14:28:48 EET 2023
+Client: Tatu Denis Cnp: 111
+
+--------------------------------------------------------------------------------------
+Masina: Volvo S60
+Valabil de la: Sun Jan 15 14:28:48 EET 2023 pana la: Mon Jan 15 14:28:48 EET 2024
+Valoare asigurata: 39000.0
+--------------------------------------------------------------------------------------
+Total                       2376.0
+
+Factura: 2
+Data emiterii: Sun Jan 15 14:28:48 EET 2023
+Client: Svet Gabriel Cnp: 113
+
+--------------------------------------------------------------------------------------
+Masina: Audi A6
+Valabil de la: Sun Jan 15 14:28:48 EET 2023 pana la: Wed Jan 15 14:28:48 EET 2025
+Valoare asigurata: 46800.0
+--------------------------------------------------------------------------------------
+Total                       3240.0
+
